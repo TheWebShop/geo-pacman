@@ -1,0 +1,1 @@
+html,body,.map-canvas{height:100%;margin:0}.move{-webkit-animation-name:pulse;-webkit-animation-duration:1s;-webkit-animation-timing-function:ease-in-out}@-webkit-keyframes pulse{0%{opacity:1;-webkit-transform:scale(1)}40%{opacity:.25;-webkit-transform:scale(0.85)}100%{opacity:.1;-webkit-transform:scale(3.5)}}
